@@ -1,7 +1,3 @@
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oFzmq6Kj4yXZUVHmE/giphy.gif" alt="Look up!" width="600px" />
-  <br>
-</h2>
 
 ## Features
 
@@ -14,35 +10,8 @@
 ⚡️ Well organized documentation
 
 
----
-
-## Need of portfolio for a developer ☝️
-
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
-
 ## Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites 📋
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed on your computer.
-
-```
-node@v10.16.0 or higher
-npm@6.9.0 or higher
-git@2.17.1 or higher
-```
-
-Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
-
-```
-yarn@v1.21.1 or higher
-```
-
----
 
 ## How To Use 🔧
 
